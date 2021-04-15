@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaFX, JavaScript, NoSQL and some of the web development frameworks.
 - 📫 You can reach me on my e-mail: sumitk11@hotmail.com and please do mention in the email that you have got my contact from GitHub.
 - Some links of my online presence:
-  - (StackOverflow)[https://stackoverflow.com/users/3717405/sumitkp11]
+  - [StackOverflow](https://stackoverflow.com/users/3717405/sumitkp11)
 
 
 <!---
