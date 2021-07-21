@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumit or you can call me SuKu
 - 👀 I’m interested in Java, HTML and CSS. I also love converting my ideas into creative websites.
-- 🌱 I’m currently learning JavaFX, JavaScript, NoSQL and SpringBoot.
+- 🌱 I’m currently learning JavaScript
 - 📫 You can reach me on my e-mail: sumitk11@hotmail.com.
 - Some links of my online presence:
   - [StackOverflow](https://stackoverflow.com/users/3717405/sumitkp11)
