@@ -7,7 +7,6 @@
   - [LinkedIn](https://www.linkedin.com/in/sumitk11/)
   - [Quora](https://www.quora.com/profile/Sumit-Kumar-491)
   - [Facebook](https://www.facebook.com/sumkum11/)
-  - [LeetCode](https://leetcode.com/sumitk11/)
   - [HackerRank](https://www.hackerrank.com/sumitk11)
 
 
