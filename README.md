@@ -8,6 +8,7 @@
   - [Quora](https://www.quora.com/profile/Sumit-Kumar-491)
   - [Facebook](https://www.facebook.com/sumkum11/)
   - [HackerRank](https://www.hackerrank.com/sumitk11)
+  - [Medium Blog](https://sumitkp.medium.com/)
 
 
 <!---
